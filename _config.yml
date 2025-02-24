@@ -6,7 +6,7 @@ description: >-
 
 markdown: GFM 
 plugins:
-- jekyll-gfm-admonitions
+- jekyll-gfm-admonitions@v1.1.0
 - jekyll-optional-front-matter
 
 exclude: 
