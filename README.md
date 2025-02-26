@@ -2,14 +2,11 @@
 > [!NOTE]
 ```
 
-`> [!NOTE]`
-
-> [!CAUTION]
-> The app targeted Android 15 and ran on Android 15 (Android Emulator).\
-> https://developer.android.com/about/versions/15/behavior-changes-15
+`> [!NOTE]`...> [!NOTE]
 
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> Highlights information that users should take into account,
+> even when skimming.
 
 > [!TIP]
 > Optional information to help a user be more successful.
