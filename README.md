@@ -1,4 +1,4 @@
-https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.1.1/
+https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.1.2/
 
 ```
 > [!NOTE]
