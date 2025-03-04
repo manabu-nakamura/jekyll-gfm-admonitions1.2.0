@@ -8,7 +8,7 @@ https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.1.2/
 
 > [!NOTE]  
 > Highlights information that users should take into account,
-> even when skimming.
+even when skimming.
 
 > [!TIP]
 > Optional information to help a user be more successful.
