@@ -13,6 +13,10 @@ quux
 qux
 
 quux
+> [!NOTE]
+> foo
+> bar
+# H1
 ```
 > foo
 > bar
@@ -27,5 +31,9 @@ quux
 qux
 
 quux
+> [!NOTE]
+> foo
+> bar
+# H1
 
 [Manabu Nakamura](https://github.com/manabu-nakamura)
