@@ -15,3 +15,17 @@ baz
 bar
 
 baz
+```
+> Highlights information that users should take into account,
+> even when skimming.
+  foo
+bar
+
+baz
+```
+>  Highlights information that users should take into account,
+> even when skimming.
+  foo
+bar
+
+baz
