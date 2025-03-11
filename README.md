@@ -23,8 +23,8 @@ quux
 > [!NOTE] My own title
 > Fancy!
 
-    [!NOTE] My own title
-    Fancy!
+    > [!NOTE] My own title
+    > Fancy!
 <blockquote>
 <p>
 [!NOTE]
@@ -56,8 +56,8 @@ quux
 > [!NOTE] My own title
 > Fancy!
 
-    [!NOTE] My own title
-    Fancy!
+    > [!NOTE] My own title
+    > Fancy!
 <blockquote>
 <p>
 [!NOTE]
