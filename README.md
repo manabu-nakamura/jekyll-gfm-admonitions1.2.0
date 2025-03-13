@@ -65,6 +65,7 @@ foo
 bar
 </p>
 </blockquote>
+
 ```html
 <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
 ```
