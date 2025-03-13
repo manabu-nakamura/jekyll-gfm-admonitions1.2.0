@@ -67,7 +67,7 @@ bar
 </blockquote>
 
 ```html
-<span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
+<span class="date day" data-ts="\{\{ ts \}\}" data-df="DD">\{\{ post.date | date: '%d' \}\}</span>
 ```
 
 [Manabu Nakamura](https://github.com/manabu-nakamura)
