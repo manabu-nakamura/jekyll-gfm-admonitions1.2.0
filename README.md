@@ -66,8 +66,4 @@ bar
 </p>
 </blockquote>
 
-```html
-<span class="date day" data-ts="\{\{ ts \}\}" data-df="DD">\{\{ post.date | date: '%d' \}\}</span>
-```
-
 [Manabu Nakamura](https://github.com/manabu-nakamura)
