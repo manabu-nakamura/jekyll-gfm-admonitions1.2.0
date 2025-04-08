@@ -1,4 +1,4 @@
-https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.1.3/
+https://manabu-nakamura.github.io/jekyll-gfm-admonitions1.2.0/
 ```markdown
 > foo
 > bar
